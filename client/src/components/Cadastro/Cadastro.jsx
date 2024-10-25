@@ -1,10 +1,14 @@
 import React from 'react';
 import './Cadastro.css';
+import car from "../../assets/car.svg";
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 const Cadastro = () => {
   return (
     <div className="container1 mt-5">
+      <div className="ajuste">
+        <img src={car} alt="" />
+      </div>
       <h2 className="text-danger">Cadastro</h2>
       <form>
         <div className="mb-3">

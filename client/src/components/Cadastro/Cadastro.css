@@ -19,3 +19,15 @@
   .text-danger {
     margin-top: 20px;
   }
+
+  .ajuste {
+    position: absolute; 
+    top: 50%; 
+    left: 5em; 
+    transform: translateY(-50%); 
+  }
+  
+  .ajuste img {
+    width: 30em; 
+    height: auto;
+}
