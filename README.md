@@ -11,7 +11,7 @@ Este projeto é um sistema de locação de veículos desenvolvido com React Vite
   - **Vermelho**: baixa quantidade de veículos (com um alerta).
 
 
-## Cadastro e Persistência de Clientes
+## Cadastro 
 
 - Antes de realizar uma locação, o sistema exibe um formulário de cadastro de clientes com os seguintes campos:
   - Nome
