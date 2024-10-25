@@ -1,0 +1,9 @@
+/* Home.css */
+img {
+    border-radius: 8px; /* Arredondar cantos das imagens */
+    transition: transform 0.3s; /* Efeito de transição */
+  }
+  
+  img:hover {
+    transform: scale(1.05); /* Aumenta a imagem ao passar o mouse */
+  }
