@@ -23,6 +23,11 @@ Este projeto é um sistema de locação de veículos desenvolvido com React Vite
 
 https://www.figma.com/design/iRd7D9Qo9tjE3cuv5cAyWz/Untitled?node-id=0-1&t=lqqpvtttbOtPbu84-1
 
+
+GITHUB DO PROJETO:
+
+https://github.com/RenanFernandoRuiz/LocaCar.git
+
  #GITHUB AUTORES:
  
 https://github.com/Betzfer
