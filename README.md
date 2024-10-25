@@ -19,8 +19,13 @@ Este projeto é um sistema de locação de veículos desenvolvido com React Vite
   - Telefone
   - E-mail
 
- ##LINK FIGMA:
+ LINK FIGMA:
+
 https://www.figma.com/design/iRd7D9Qo9tjE3cuv5cAyWz/Untitled?node-id=0-1&t=lqqpvtttbOtPbu84-1
 
- #GITHUB AUTORES
+ #GITHUB AUTORES:
+https://github.com/Betzfer
+https://github.com/RenanFernandoRuiz 
+
+ 
 
