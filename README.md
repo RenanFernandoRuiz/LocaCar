@@ -19,4 +19,8 @@ Este projeto é um sistema de locação de veículos desenvolvido com React Vite
   - Telefone
   - E-mail
 
+ ##LINK FIGMA:
+
+
+ #GITHUBAUTORES
 
