@@ -8,6 +8,7 @@ import "./index.css";
 import App from "./App.jsx";
 import Home from "./components/Home/Home.jsx";
 import Carros from "./components/Carros/Carros.jsx";
+import Cadastro from "./components/Cadastro/Cadastro.jsx";
 
 
 
@@ -17,6 +18,7 @@ const router = createBrowserRouter([
     element: <App />,
     children: [{ path: "", element: <Home /> },
     { path: "/carros", element: <Carros/> },
+    { path: "/cadastro", element: <Cadastro/> },
   ], 
 
    

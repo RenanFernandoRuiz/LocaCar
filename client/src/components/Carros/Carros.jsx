@@ -16,25 +16,31 @@ const Carros = () => {
         <img src={carro1} alt="Imagem 1" className="img-fluid" />
       </div>
       <div className="col-md-4 mb-4">
-        <Link to="/carros"> 
+        <Link to="/cadastro"> 
           <img src={carro2} alt="Imagem 2" className="img-fluid" />
         </Link>
       </div>
       <div className="col-md-4 mb-4">
-        <Link to="/link3"> 
+        <Link to="/cadastro"> 
           <img src={carro3} alt="Imagem 3" className="img-fluid" />
         </Link>
       </div>
     </div>
     <div className="row">
       <div className="col-md-4 mb-4">
+      <Link to="/cadastro"> 
         <img src={carro4} alt="Imagem 4" className="img-fluid" />
+        </Link>
       </div>
       <div className="col-md-4 mb-4">
+      <Link to="/cadastro"> 
         <img src={carro5} alt="Imagem 5" className="img-fluid" />
+        </Link>
       </div>
       <div className="col-md-4 mb-4">
+      <Link to="/cadastro"> 
         <img src={carro6} alt="Imagem 6" className="img-fluid" />
+        </Link>
       </div>
     </div>
   </div>
